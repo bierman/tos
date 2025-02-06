@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PocketTRS_Connectors")(type "KiCad")(uri "${KIPRJMOD}/PocketTRS_Connectors.pretty")(options "")(descr ""))
+)

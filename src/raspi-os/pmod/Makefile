@@ -1,5 +1,5 @@
 
-DIRS = blink button pmod
+DIRS = led_matrix
 
 all:
 	for i in $(DIRS); do make -C $$i || exit 1; done

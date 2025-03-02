@@ -1,5 +1,5 @@
 
-DIRS = blink
+DIRS = blink button
 
 all:
 	for i in $(DIRS); do make -C $$i || exit 1; done
